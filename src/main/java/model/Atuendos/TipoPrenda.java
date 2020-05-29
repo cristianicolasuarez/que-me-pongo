@@ -1,4 +1,6 @@
-package model;
+package model.Atuendos;
+
+import model.Atuendos.Categoria;
 
 public enum TipoPrenda {
     ZAPATO(Categoria.CALZADO),

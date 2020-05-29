@@ -1,10 +1,10 @@
 package model.uniformes;
 
-import model.Borrador;
-import model.Color;
-import model.Material;
-import model.Prenda;
-import model.TipoPrenda;
+import model.Atuendos.Borrador;
+import model.Atuendos.Color;
+import model.Atuendos.Material;
+import model.Atuendos.Prenda;
+import model.Atuendos.TipoPrenda;
 
 public class SastreSanJuan implements Sastre {
 	@Override

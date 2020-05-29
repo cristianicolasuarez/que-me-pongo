@@ -1,6 +1,6 @@
 package model.uniformes;
 
-import model.Prenda;
+import model.Atuendos.Prenda;
 
 public interface Sastre {
 	public Prenda fabricarParteSuperior();

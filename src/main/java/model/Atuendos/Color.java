@@ -1,4 +1,4 @@
-package model;
+package model.Atuendos;
 
 public class Color {
     private int rojo;

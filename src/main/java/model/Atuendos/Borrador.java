@@ -1,4 +1,4 @@
-package model;
+package model.Atuendos;
 
 import static java.util.Objects.requireNonNull;
 
